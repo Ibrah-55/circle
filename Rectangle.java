@@ -29,7 +29,5 @@ class Rectangle
         System.out.println("The Length is = " + leng);
         System.out.println("The Breadth is = " + brea);
         System.out.println("The Perimeter is = " + r.getPerimeter());
-    
-    }
 
-}
+    }}
